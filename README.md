@@ -65,12 +65,6 @@ please contact me! I'll be happy to discuss how I can contribute to your project
   ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google%20cloud&logoColor=white)
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,docker,Github,HTML,MongoDB,MySQL,salesforce,power bi,python,SQL,Hadoop,spark,ETL,Machine Learning"/>
-  </a>
-</p>
-
 <br>
 
 ---
