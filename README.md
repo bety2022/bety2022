@@ -67,7 +67,7 @@ please contact me! I'll be happy to discuss how I can contribute to your project
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,github,HTML,mongodb,mysql,salesforce,power bi,python,SQL,Hadoop,spark,ETL,Machine Learning" />
   </a>
 </p>
 
