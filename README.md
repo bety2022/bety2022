@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Carolina</h1>
+<h1 align="center">Hi 👋, I'm Carolina Lòpez</h1>
 
 <br>
 
@@ -10,7 +10,7 @@
 - ⛑️ Always willing to help
 - 💻 I don't give up easily
 
-Hi, welcome to my portfolio of projects! I'm Carolina, a passionate Data Scientist,
+Hi, welcome to my portfolio of projects! I'm Carolina Lòpez, a passionate Data Scientist,
 with a background in Marketing Online, Business Management, 
 International Logistics, Designer of Apparel.
 My portfolio covers various projects in different sectors, which I constantly
