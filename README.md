@@ -13,6 +13,15 @@
 Hi, welcome to my portfolio of projects! I'm Carolina, a passionate Data Scientist,
 with a background in Marketing Online, Business Management, 
 International Logistics, Designer of Apparel.
+My portfolio covers various projects in different sectors, which I constantly
+expand and update. 
+My main focus is to apply data science techniques to gain valuable
+insights and make strategic decisions.
+I love exploring new areas and collaborating with teams to tackle unique challenges. 
+I am fully willing to collaborate on challenging and exciting projects.
+If you need someone to join your team, are interested in collaborating, or have any questions,
+please contact me! I'll be happy to discuss how I can contribute to your project.
+
 
 
 <h2 align="center">Data Scientist</h2>
