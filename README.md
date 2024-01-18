@@ -67,7 +67,7 @@ please contact me! I'll be happy to discuss how I can contribute to your project
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, was, discord, docker, Github, HTML, MongoDB, MySQL, salesforce, power bi, python, SQL, Hadoop, spark, ETL, Machine Learning"/>
+    <img src="https://skillicons.dev/icons?i=git,discord,docker,Github,HTML,MongoDB,MySQL,salesforce,power bi,python,SQL,Hadoop,spark,ETL,Machine Learning"/>
   </a>
 </p>
 
