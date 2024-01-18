@@ -64,9 +64,6 @@ please contact me! I'll be happy to discuss how I can contribute to your project
 - ​☁️ &nbsp;
   ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google%20cloud&logoColor=white)
 
-<img src="./icons/Discord.svg" width="48"> 
-<img src="./icons/FastAPI.svg" width="48"> 
-<img src="./icons/Github-Dark.svg" width="48">
 
 
 <br>
