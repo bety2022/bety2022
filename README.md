@@ -1,7 +1,6 @@
 ![image](https://github.com/bety2022/bety2022/blob/main/Portada%20Linkedink%20Data%20Scientist.png)
 
 
-
 <h1 align="center">Hi 👋, I'm Carolina Lòpez</h1>
 
 <br>
