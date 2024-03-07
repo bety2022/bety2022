@@ -24,8 +24,8 @@ please contact me! I'll be happy to discuss how I can contribute to your project
 
 
 <h2 align="center">Data Scientist</h2>
-<h2 align="center">Data Engineer</h2>
-<h2 align="center">Data Analyst</h2>
+<h2 align="center">Front-End Developer</h2>
+
 
 ### 🛠 &nbsp;Tech Stack 
 
