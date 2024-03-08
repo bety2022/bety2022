@@ -32,9 +32,9 @@ please contact me! I'll be happy to discuss how I can contribute to your project
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
   ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)
-  ![JavaScript](https://img.shields.io/badge/logo-JavaScript-blue?logo=JavaScript)
-  ![HTML](https://img.shields.io/badge/logo-HTML-blue?logo=HTML)
-  ![CSS3](https://img.shields.io/badge/logo-CSS3-blue?logo=CSS3) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-blue?=JavaScript)
+  ![HTML](https://img.shields.io/badge/HTML-blue?=HTML)
+  ![CSS3](https://img.shields.io/badge/CSS3-blue?CSS3) 
 - 💡 &nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
@@ -59,7 +59,7 @@ please contact me! I'll be happy to discuss how I can contribute to your project
   ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/logo-figma-blue?logo=figma)
+  ![Figma](https://img.shields.io/badge/figma-blue?=figma)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
   ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
