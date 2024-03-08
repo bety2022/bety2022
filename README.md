@@ -34,7 +34,7 @@ please contact me! I'll be happy to discuss how I can contribute to your project
   ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)
   ![JavaScript](https://img.shields.io/badge/JavaScript-blue?=JavaScript)
   ![HTML](https://img.shields.io/badge/HTML-blue?=HTML)
-  ![CSS3](https://img.shields.io/badge/CSS3-blue?CSS3) 
+  ![CSS3](https://img.shields.io/badge/CSS3-blue?=CSS3) 
 - 💡 &nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
