@@ -32,9 +32,9 @@ please contact me! I'll be happy to discuss how I can contribute to your project
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
   ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-blue?=JavaScript)
-  ![HTML](https://img.shields.io/badge/HTML-blue?=HTML)
-  ![CSS3](https://img.shields.io/badge/CSS3-blue?=CSS3) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)
+  ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3) 
 - 💡 &nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
