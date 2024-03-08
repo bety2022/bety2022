@@ -61,7 +61,6 @@ please contact me! I'll be happy to discuss how I can contribute to your project
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)
   ![CorelDraw](https://img.shields.io/badge/-CorelDraw-05122A?style=flat&logo=CorelDraw)
-  
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
   ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
