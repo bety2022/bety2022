@@ -59,7 +59,7 @@ please contact me! I'll be happy to discuss how I can contribute to your project
   ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/figma-blue?=figma)
+  ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
   ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
